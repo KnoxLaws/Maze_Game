@@ -161,7 +161,7 @@ if __name__ == "__main__":
     game = MazeGame(time_limit=30) 
     game.play()
 
-"You proposal for the final project should include:"
+"Your proposal for the final project should include:"
 "• A description of the new features that will be implemented in the final. -           My final project will be a maze where each" 
 "level is not only playable, but will be played simotaniously against the same maze being played by the compter next to" 
 "it in real time. The game will include a second maze option that allows two people to play two different mazes in a" 
@@ -169,7 +169,7 @@ if __name__ == "__main__":
 "• An estimate how long the final will take. -          Final will take approximatley 10 hours to complete." 
 "• A plan for what needs to be changed and in what order. -         The first thing I will do is set up the maze to where all games"
 "are playable, once done I will set up the second maze option where you can play two mazes at a time with two people "
-"in a race, test with a friend, and then creat the code for a robot to play the second maze instead of a person. Clean code"
+"in a race, test with a friend, and then create the code for a robot to play the second maze instead of a person. Clean code"
 "and add comments to all sections of the code."
 "• A description of what you expect will be the most difficult part will be. -          The most difficult part will either be adding"
 "the second maze originally or creating the code for the robot to play the second maze"
